@@ -32,3 +32,13 @@ fn main() {
 fn plus_one(x: i32) -> i32 {
     x + 1 //tidak perlu titik ;
 }
+
+// fn main() {
+//     let number = 3;
+
+//     if number < 5 {
+//         println!("condition was true");
+//     } else {
+//         println!("condition was false");
+//     }
+// }
